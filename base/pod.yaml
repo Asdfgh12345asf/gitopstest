@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: dj
+  name: dj1
   namespace: default
 spec:
   containers:
