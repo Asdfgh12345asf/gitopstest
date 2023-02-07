@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: busykasyap
+  name: kasyap
   namespace: default
 spec:
   containers:
